@@ -1,0 +1,2 @@
+C:\Users\erykp\Desktop\ClassCar\ClassCar\ClassCar\obj\Debug\ClassCar.csproj.AssemblyReference.cache
+C:\Users\erykp\Desktop\ClassCar\ClassCar\ClassCar\obj\Debug\ClassCar.csproj.CoreCompileInputs.cache
